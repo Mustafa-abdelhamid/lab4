@@ -14,9 +14,7 @@
 - [List of Files](#list-of-files)
 - [instructions](#instructions)
 - [Test Results](#test-results)
-- [Acknowledgments](#acknowledgments)
-- [Sponsors](#sponsors)
-- [Release History](#release-history)
+
 
 
 # Description:
