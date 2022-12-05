@@ -1,0 +1,15 @@
+Printing file contents...
+________________________
+Maple,33
+Samsings,67
+Facehook,365
+Amazin',100
+TikTik,42
+Tweety,5600
+Absolutely Boring Co. ,10
+SpaceZ,809
+________________________
+Size of file data (in bytes): 113 
+Total income garnered from all stocks: $7026 
+Stock name with maximum income:Tweety
+-- program is finished running (0) --

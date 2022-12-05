@@ -1,0 +1,12 @@
+Printing file contents...
+________________________
+sgfhdrighyredpi,1001
+Kramerica,104
+hewsifgloiers,19
+Pendant Publishing,100
+Catalog,42
+________________________
+Size of file data (in bytes): 91 
+Total income garnered from all stocks: $1266 
+Stock name with maximum income:sgfhdrighyredpi
+-- program is finished running (0) --
