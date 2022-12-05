@@ -2,7 +2,7 @@
 
 |	|	|
 |:------:	|:-----------------------------------------------:	|
-| `Name` 	| Gabriela  	|
+| `Name` 	|   	|
 | `CruzID` 	|  	|
 | `Year` 	|  	|
 
@@ -66,7 +66,8 @@ Pendant Publishing,100
 J. Peterman Catalog,42
 ```
 ***output***
-![Data output](./Results/Data.png)
+-------
+![Data output](./Results/data.png)
 
 ## Data2.csv 
 ```csv
@@ -77,6 +78,7 @@ Pendant Publishing,100
 Catalog,42
 ```
 ***output***
+------
 ![Data output](./Results/data2.png)
 
 ## Data3.csv 
@@ -91,4 +93,5 @@ Absolutely Boring Co. ,10
 SpaceZ,809
 ```
 ***output***
+------
 ![Data output](./Results/data3.png)
