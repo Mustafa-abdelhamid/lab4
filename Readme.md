@@ -1,15 +1,15 @@
 # Lab 4: Record pointer
 
-|    	|                                      	|
+
 |:------:	|:-----------------------------------------------:	|
-| `Name` 	| Gabriela stage 	|
+| `Name` 	| Gabriela  	|
 | `CruzID` 	|  	|
 | `Year` 	|  	|
 
 
 # Table of Contents:
 
-- [Introduction](#introduction)
+
 - [Description](#description)
 - [List of Files](#list-of-files)
 - [instructions](#instructions)
