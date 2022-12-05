@@ -57,7 +57,7 @@
 .end_macro
 
 .data
-	filePath: .asciz "/home/mustafa/Desktop/triangle/rars/Upwork/lab4/data.csv" 
+	filePath: .asciz "/home/mustafa/Desktop/triangle/rars/Upwork/lab4/Tests/data3.csv" 
 	fileBeginPrompt: .asciz "Printing file contents...\n________________________\n"
 	fileEndPrompt: .asciz "________________________\n"
 	msg: .asciz "Size of file data (in bytes): " 

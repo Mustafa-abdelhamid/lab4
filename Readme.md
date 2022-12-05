@@ -1,6 +1,6 @@
 # Lab 4: Record pointer
 
-
+|	|	|
 |:------:	|:-----------------------------------------------:	|
 | `Name` 	| Gabriela  	|
 | `CruzID` 	|  	|
@@ -38,7 +38,10 @@ The program extract
 	- data.csv
 	- data2.csv
 	- data3.csv
-   
+- Results/ 
+	- data.png
+	- data2.png
+	- data3.png 
 
 
 # instructions:
@@ -63,4 +66,29 @@ Pendant Publishing,100
 J. Peterman Catalog,42
 ```
 ***output***
-![Decode_Stage](./image/Decode_Stage.png)
+![Data output](./Results/Data.png)
+
+## Data2.csv 
+```csv
+sgfhdrighyredpi,1001
+Kramerica,104
+hewsifgloiers,19
+Pendant Publishing,100
+Catalog,42
+```
+***output***
+![Data output](./Results/data2.png)
+
+## Data3.csv 
+```csv
+Maple,33
+Samsings,67
+Facehook,365
+Amazin',100
+TikTik,42
+Tweety,5600
+Absolutely Boring Co. ,10
+SpaceZ,809
+```
+***output***
+![Data output](./Results/data3.png)
