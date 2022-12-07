@@ -43,10 +43,10 @@
 
 ***RARS terminal***
 -------
-![Data output](./Results/data.png)
+![Data output](./Results/rars.png)
 
 ***generated output file***
 -------
-![Data output](./Results/data2.png)
+![Data output](./Results/file.png)
 
 
